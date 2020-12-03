@@ -1,6 +1,12 @@
 ## Example of using IMA inside a Tizen Web Application
+# Setup
 
-Instructions for setting up a Tizen development environment:
+* Install Tizen Studio 4.0
+* In Package Manager: Install Extensions SDK > "TV Extensions-5.5"
+* In Emulator Manager: Create a TV emulator using default settings
+* git clone
+* Tizen Studio: Import Project from Filesystem
+* Debug As...
 
-https://docs.tizen.org/application/web/get-started/tv/first-app/
+See also: https://docs.tizen.org/application/web/get-started/tv/first-app/
 
